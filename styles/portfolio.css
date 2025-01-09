@@ -124,3 +124,21 @@ main section{
     border-radius: 5px;
     box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06) ;
 }
+/* resume section style */
+.resume-container{
+    display: flex;
+    gap: 30px;
+}
+.experience-sub-title,.experience-description{
+    color: #757575;
+} 
+.experience-sub-title{
+    font-weight: 600px;
+    font-size: 20px;
+}
+/* footer styles */
+footer{
+    display: flex;
+    margin: 130px 230px;
+    gap: 100px  ;
+}
